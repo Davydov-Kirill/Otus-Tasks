@@ -5,9 +5,9 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{FF21BAF5-D905-4452-8693-E708A1EAE773}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleSOLID", "SOLIDConsole\ExampleSOLID.csproj", "{1C5925C2-84E4-4EA2-A714-8E581356885D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleExample", "SOLID\ConsoleExample\ConsoleExample.csproj", "{1C5925C2-84E4-4EA2-A714-8E581356885D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumberLibrary", "GuessTheNumberLibrary\GuessTheNumberLibrary.csproj", "{8DC4B684-42C0-402A-B832-2AFE32BF4C31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumberLibrary", "SOLID\GuessTheNumberLibrary\GuessTheNumberLibrary.csproj", "{8DC4B684-42C0-402A-B832-2AFE32BF4C31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

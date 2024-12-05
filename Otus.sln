@@ -22,6 +22,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "PatternPrototy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype.Test", "Prototype.Tests\Prototype.Test.csproj", "{01EEF64B-871A-439C-9415-B82923244E50}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DelegatesEvents", "DelegatesEvents", "{E64D7CB6-AE2C-4F74-B6AF-590B9A51AFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents\DelegatesEvents.csproj", "{EDC5F5E1-8421-4256-88D7-AE8EA41C27C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +52,10 @@ Global
 		{01EEF64B-871A-439C-9415-B82923244E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01EEF64B-871A-439C-9415-B82923244E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01EEF64B-871A-439C-9415-B82923244E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC5F5E1-8421-4256-88D7-AE8EA41C27C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC5F5E1-8421-4256-88D7-AE8EA41C27C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC5F5E1-8421-4256-88D7-AE8EA41C27C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC5F5E1-8421-4256-88D7-AE8EA41C27C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +66,7 @@ Global
 		{9AA1EFEA-19ED-4150-A0D8-30BD61FDE9C9} = {155CE1B7-F1C5-4B14-AA06-990A7CE7E516}
 		{DF12D097-1491-4F9E-9173-DFAD5BE46A70} = {B5AF8F89-6399-4602-9D81-41F48B897C6C}
 		{01EEF64B-871A-439C-9415-B82923244E50} = {B5AF8F89-6399-4602-9D81-41F48B897C6C}
+		{EDC5F5E1-8421-4256-88D7-AE8EA41C27C1} = {E64D7CB6-AE2C-4F74-B6AF-590B9A51AFD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {992BC25C-789A-4432-9D9B-A31D2217969E}
